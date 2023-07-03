@@ -1,4 +1,4 @@
-# birbilis_group.github.io
+# Birbilis Research Group
 An overview of Nick Birbilis' Research Group
 
 ## Our Research
