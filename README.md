@@ -1,7 +1,7 @@
 # Birbilis Research Group
 An overview of Nick Birbilis' Research Group
 
-## Our Research
+## [Our Research](/dymock/research_areas.md)
 Our research focuses on ways machine learning can improve material science by conducting research in the following areas:
 - Finding new metal composites using regression modelling and natural language processing techniques
 - Designing new material structures via generative artificial intelligence
