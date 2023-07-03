@@ -5,7 +5,7 @@ An overview of Nick Birbilis' Research Group
 Our research focuses on ways machine learning can improve material science by conducting research in the following areas:
 ### [Machine Learning Assisted Alloy Development](research_fields/ml_alloys.md)
 Finding new alloys using regression modelling and natural language processing techniques 
-### [Material Structures through Generative Design]()
+### [Material Structures through Generative Design](research_fields/generative_design.md)
 Designing new material structures via generative artificial intelligence
 ### [Computer Vision Assisted Infrastructure Inspection](research_fields/cv_infrastructure.md)
 Developing computer vision systems that can help manage the deterioration of our built environment
