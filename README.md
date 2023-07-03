@@ -10,13 +10,15 @@ Our research focuses on ways machine learning can improve material science by co
 ## Our Group 
 Our group consists of 10 engineers with an array of expertise in composite metals, machine learning, and infrastructure deterioration:
 
-### Nick Birbilis
+### [Nick Birbilis](/researchers/nick.md)
 Nick's blurb
 
-### Randy Zeng
+### [Randy Zeng](/researchers/randy.md)
 Randy's blurb
 
-...
+### [Ninad Bhat](/researchers/ninad.md)
+
+
 
 
 ## Our Projects
