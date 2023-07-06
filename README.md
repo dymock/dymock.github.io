@@ -17,17 +17,17 @@ Our group consists of 10 engineers with an array of expertise in composite metal
 |:------------------------------------:|
 |              nick_photo              |
 
-| [Randy Zeng](researchers/randy.md) | [Ninad Bhat](researchers/ninad.md) | [Shujing Zhao](researchers/shujing.md) |
-|:----------------------------------:|:----------------------------------:|:--------------------------------------:|
-|            randy_photo             |            ninad_photo             |             shujing_photo              |
+| [Randy Zeng](researchers/randy.md) |              [Ninad Bhat](researchers/ninad.md)               | [Shujing Zhao](researchers/shujing.md) |
+|:----------------------------------:|:-------------------------------------------------------------:|:--------------------------------------:|
+|            randy_photo             | <img src="attachments/ninad.jpeg" width="200" height="200" /> |             shujing_photo              |
 
 | [Zhipeng Li](researchers/zhipeng.md) | [Himadri Shekhar Mondal](researchers/himadri.md) | [Ben Burton](researchers/ben.md) |
 |:------------------------------------:|:------------------------------------------------:|:--------------------------------:|
 |            zhipeng_photo             |                  himadri_photo                   |            ben_photo             |
 
-| [Marzie Ghorbani](researchers/marzie.md) | [Mackinley Shaw](mackinley.md) | [Dymock Dibb](researchers/dymock.md) |
-|:----------------------------------------:|:------------------------------:|:------------------------------------:|
-|               marzie_photo               |        mackinley_photo         |             dymock_photo             |
+| [Marzie Ghorbani](researchers/marzie.md) | [Mackinley Shaw](mackinley.md) |             [Dymock Dibb](researchers/dymock.md)              |
+|:----------------------------------------:|:------------------------------:|:-------------------------------------------------------------:|
+|               marzie_photo               |        mackinley_photo         | <img src="attachments/dymock.jpg" width="200" height="200" /> |
 
 ## Our Projects
 
